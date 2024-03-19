@@ -1,4 +1,4 @@
-# Hi there! I'm Dario, a Senior Software Developer 👋
+# Hi there! I'm Dario, a Sr Software Developer 👋
 
 I have a passion for building robust and scalable software solutions using a wide range of technologies. With extensive experience in PHP, JavaScript, Vue.js, jQuery, Python, Go, Gin-Gonic, Laravel, Symfony, and Nuxt.js, I am proficient in both frontend and backend development. I enjoy working on challenging projects that require innovative thinking and problem-solving skills.
 
